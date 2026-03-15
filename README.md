@@ -16,5 +16,13 @@ This website shows global climate information and weather data.
 - Streamlit
 - Weather API
 
+## How to Run
+
+1. Install dependencies
+pip install -r requirements.txt
+
+2. Run the app
+streamlit run app.py
+
 ## Live Demo
 (Add your deployment link here)
