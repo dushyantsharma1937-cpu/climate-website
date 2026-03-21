@@ -24,7 +24,4 @@ pip install -r requirements.txt
 2. Run the app
 streamlit run app.py
 
-## Live Demo
-demo video link
-https://drive.google.com/file/d/19OB3datGNowNO7yRocN6AoF3dbTC7s_c/view?usp=drive_link
 
